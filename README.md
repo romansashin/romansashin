@@ -42,8 +42,6 @@ My competitive advantage lies in the **Code + Automation** synergy:
 
 ---
 
-<br>
-
 <div align="center"> 
 
 ### Let's build something scalable 🚀
