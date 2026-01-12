@@ -46,15 +46,17 @@ My competitive advantage lies in the **Code + Automation** synergy:
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=romansashin&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romansashin&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romansashin&show_icons=true&theme=radical&hide_border=true)](https://github.com/romansashin)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romansashin&layout=compact&theme=radical&hide_border=true)](https://github.com/romansashin)
 
 </div>
 
 <div align="center"> 
 
-Let's build something scalable. 
-<br>
+Let's build something scalable. <br>
 [📫 Contact Me](#)
 
 </div>
