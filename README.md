@@ -48,15 +48,28 @@ My competitive advantage lies in the **Code + Automation** synergy:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romansashin&show_icons=true&theme=radical&hide_border=true)](https://github.com/romansashin)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romansashin&layout=compact&theme=radical&hide_border=true)](https://github.com/romansashin)
+  <a href="https://github.com/romansashin">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=romansashin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/romansashin">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romansashin&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  </a>
 
 </div>
 
+<br>
+
 <div align="center"> 
 
-Let's build something scalable. <br>
-[📫 Contact Me](#)
+### Let's build something scalable 🚀
+
+<a href="https://t.me/romansashin">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<a href="mailto:roman@sashin.net">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
