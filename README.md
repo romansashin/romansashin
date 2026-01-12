@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm a Full Stack Engineer focused on AI-Driven Development 👋
 
-<!--
-**romansashin/romansashin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-grade applications by combining **solid software architecture** with **next-gen AI tools**. My focus is on writing clean, scalable code for complex problems while offloading routine processes to automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 **My Philosophy**
+* **Code First:** Custom logic, clean architecture, and responsive UI (React/Vue/Node).
+* **AI Augmented:** Leveraging **Cursor** and LLMs to accelerate architecture and refactoring.
+* **Automation Layer:** Using **n8n** as a glue for services, webhooks, and background tasks to keep the core codebase lean.
+
+#### 🛠 **Tech Stack**
+* **Frontend:** React, TypeScript, Tailwind CSS
+* **Backend:** Node.js, Python, PostgreSQL
+* **AI & Tools:** Cursor (Main Driver), OpenAI API, Claude
+* **Workflow:** n8n (Automation), Docker, CI/CD
+
+---
+💬 *Open to contracts for complex web application development.*
