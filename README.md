@@ -46,8 +46,8 @@ My competitive advantage lies in the **Code + Automation** synergy:
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=romansashin&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romansashin&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 
 </div>
 
